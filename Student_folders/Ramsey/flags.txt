@@ -1,0 +1,5 @@
+The following flags failed to work properly for me today even though I have earned them:
+
+The bonus flag for Ex1_5 Part 1 - echo bonus | sha1sum.
+
+The Sci-Py checker flag - Is displaying that it cannot find astropy even though it is present.
