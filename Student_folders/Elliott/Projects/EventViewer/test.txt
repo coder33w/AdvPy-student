@@ -1,0 +1,3657 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">1102</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:17.188477"></TimeCreated>
+<EventRecordID>329</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="720" ThreadID="2232"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<UserData><LogFileCleared xmlns:auto-ns3="http://schemas.microsoft.com/win/2004/08/events" xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserSid>S-1-5-21-1682941433-2412523285-1478106454-1000</SubjectUserSid>
+<SubjectUserName>bob</SubjectUserName>
+<SubjectDomainName>bob-PC</SubjectDomainName>
+<SubjectLogonId>0x0000000000020150</SubjectLogonId>
+</LogFileCleared>
+</UserData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.688477"></TimeCreated>
+<EventRecordID>330</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">kulHKAGP</Data>
+<Data Name="Workstation">SZ225hU6Uvk9dlsK</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.688477"></TimeCreated>
+<EventRecordID>331</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">zYhzSajqcwmrZP5B</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.704100"></TimeCreated>
+<EventRecordID>332</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">GZAJJ1WVon0BKA3r</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.719727"></TimeCreated>
+<EventRecordID>333</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">bmHoOxqy0JNICl8Z</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.735352"></TimeCreated>
+<EventRecordID>334</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">nywZV6JGlcb29NC3</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.735352"></TimeCreated>
+<EventRecordID>335</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">pnpvIpNYsaPc7keU</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.750975"></TimeCreated>
+<EventRecordID>336</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">xQ2INAzMjJGqWZFA</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.766602"></TimeCreated>
+<EventRecordID>337</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">3EepQ0KnY6GnSVIB</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.782227"></TimeCreated>
+<EventRecordID>338</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">ZqeIN2GXxzjOcPUs</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.797850"></TimeCreated>
+<EventRecordID>339</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">8akffd8NzPZmOVwm</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.813477"></TimeCreated>
+<EventRecordID>340</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">8uIEyvLMx0f82KDr</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.813477"></TimeCreated>
+<EventRecordID>341</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">ABs3NSdGjM4V6WT4</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.829100"></TimeCreated>
+<EventRecordID>342</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">36hEV7ueZqMCZ43Q</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.829100"></TimeCreated>
+<EventRecordID>343</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="SubjectUserName">bob</Data>
+<Data Name="SubjectDomainName">bob-PC</Data>
+<Data Name="SubjectLogonId">0x00000000000ca003</Data>
+<Data Name="PrivilegeList">SeSecurityPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeTakeOwnershipPrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeLoadDriverPrivilege
+			SeImpersonatePrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.829100"></TimeCreated>
+<EventRecordID>344</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="SubjectUserName">bob</Data>
+<Data Name="SubjectDomainName">bob-PC</Data>
+<Data Name="SubjectLogonId">0x00000000000ca003</Data>
+<Data Name="PrivilegeList">SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.829100"></TimeCreated>
+<EventRecordID>345</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-0-0</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x0000000000000000</Data>
+<Data Name="TargetUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="TargetDomainName">bob-PC</Data>
+<Data Name="TargetLogonId">0x00000000000ca003</Data>
+<Data Name="LogonType">3</Data>
+<Data Name="LogonProcessName">NtLmSsp </Data>
+<Data Name="AuthenticationPackageName">NTLM</Data>
+<Data Name="WorkstationName">36hEV7ueZqMCZ43Q</Data>
+<Data Name="LogonGuid">00000000-0000-0000-0000-000000000000</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">NTLM V2</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000000</Data>
+<Data Name="ProcessName">-</Data>
+<Data Name="IpAddress">10.200.0.21</Data>
+<Data Name="IpPort">39588</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.844727"></TimeCreated>
+<EventRecordID>346</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="TargetDomainName">bob-PC</Data>
+<Data Name="TargetLogonId">0x00000000000ca003</Data>
+<Data Name="LogonType">3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.844727"></TimeCreated>
+<EventRecordID>347</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="Workstation">nSZ0WAEGBoBxw1Ev</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.844727"></TimeCreated>
+<EventRecordID>348</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="SubjectUserName">bob</Data>
+<Data Name="SubjectDomainName">bob-PC</Data>
+<Data Name="SubjectLogonId">0x00000000000ca01a</Data>
+<Data Name="PrivilegeList">SeSecurityPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeTakeOwnershipPrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeLoadDriverPrivilege
+			SeImpersonatePrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4672</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12548</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.844727"></TimeCreated>
+<EventRecordID>349</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="SubjectUserName">bob</Data>
+<Data Name="SubjectDomainName">bob-PC</Data>
+<Data Name="SubjectLogonId">0x00000000000ca01a</Data>
+<Data Name="PrivilegeList">SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4624</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12544</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.844727"></TimeCreated>
+<EventRecordID>350</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-0-0</Data>
+<Data Name="SubjectUserName">-</Data>
+<Data Name="SubjectDomainName">-</Data>
+<Data Name="SubjectLogonId">0x0000000000000000</Data>
+<Data Name="TargetUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="TargetDomainName">bob-PC</Data>
+<Data Name="TargetLogonId">0x00000000000ca01a</Data>
+<Data Name="LogonType">3</Data>
+<Data Name="LogonProcessName">NtLmSsp </Data>
+<Data Name="AuthenticationPackageName">NTLM</Data>
+<Data Name="WorkstationName">nSZ0WAEGBoBxw1Ev</Data>
+<Data Name="LogonGuid">00000000-0000-0000-0000-000000000000</Data>
+<Data Name="TransmittedServices">-</Data>
+<Data Name="LmPackageName">NTLM V2</Data>
+<Data Name="KeyLength">0</Data>
+<Data Name="ProcessId">0x0000000000000000</Data>
+<Data Name="ProcessName">-</Data>
+<Data Name="IpAddress">10.200.0.21</Data>
+<Data Name="IpPort">44139</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.891602"></TimeCreated>
+<EventRecordID>351</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="TargetUserSid">S-1-5-21-1682941433-2412523285-1478106454-1000</Data>
+<Data Name="TargetUserName">bob</Data>
+<Data Name="TargetDomainName">bob-PC</Data>
+<Data Name="TargetLogonId">0x00000000000ca01a</Data>
+<Data Name="LogonType">3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.891602"></TimeCreated>
+<EventRecordID>352</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">kackdLbUKmaRC9aD</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.907227"></TimeCreated>
+<EventRecordID>353</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.922850"></TimeCreated>
+<EventRecordID>354</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">7sIGDdAgua7nya1o</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.922850"></TimeCreated>
+<EventRecordID>355</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.922850"></TimeCreated>
+<EventRecordID>356</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">rqPyqfEz3kgUeM10</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.922850"></TimeCreated>
+<EventRecordID>357</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.938477"></TimeCreated>
+<EventRecordID>358</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">aycmR11Tbk7t3Gqg</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.938477"></TimeCreated>
+<EventRecordID>359</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.954100"></TimeCreated>
+<EventRecordID>360</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">O9jJS2zx1ttSs5B5</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.954100"></TimeCreated>
+<EventRecordID>361</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.969727"></TimeCreated>
+<EventRecordID>362</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">VlNu8gKuVu5mT88N</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.969727"></TimeCreated>
+<EventRecordID>363</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.969727"></TimeCreated>
+<EventRecordID>364</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">g6BF7egrJf25aHYl</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:20.969727"></TimeCreated>
+<EventRecordID>365</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.000975"></TimeCreated>
+<EventRecordID>366</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">ANR4CV4hVMIJj78Q</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.000975"></TimeCreated>
+<EventRecordID>367</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.016602"></TimeCreated>
+<EventRecordID>368</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">oTMs5hPBlmuyIjnn</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.016602"></TimeCreated>
+<EventRecordID>369</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.032227"></TimeCreated>
+<EventRecordID>370</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">FesSn3V4WyiEINmk</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.047850"></TimeCreated>
+<EventRecordID>371</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.047850"></TimeCreated>
+<EventRecordID>372</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">DT4PRtG7QTXHGQlj</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.047850"></TimeCreated>
+<EventRecordID>373</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.079100"></TimeCreated>
+<EventRecordID>374</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">AGy6nixQTQlqkqYG</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.079100"></TimeCreated>
+<EventRecordID>375</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName"></Data>
+<Data Name="Workstation">\\10.200.0.21</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.079100"></TimeCreated>
+<EventRecordID>376</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">fKQINooJzUxDMDSF</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.094727"></TimeCreated>
+<EventRecordID>377</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">2Hd048sM9pE3LL8F</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.110352"></TimeCreated>
+<EventRecordID>378</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">JvhPl46qYxkInhxR</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.125975"></TimeCreated>
+<EventRecordID>379</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">aG7OHr9W33QLrkSd</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.141602"></TimeCreated>
+<EventRecordID>380</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">04GTrxuMFeQH2gxp</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.157227"></TimeCreated>
+<EventRecordID>381</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">NC2fhk3TqMLwlqjT</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.172850"></TimeCreated>
+<EventRecordID>382</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">kW97log3YwHlqbuJ</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.188477"></TimeCreated>
+<EventRecordID>383</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">OzXwVceC9lhS2Ctv</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.204100"></TimeCreated>
+<EventRecordID>384</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">tyshwVss5IDo1oUy</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.219727"></TimeCreated>
+<EventRecordID>385</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">iUBM4SgH61U3Scbf</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.219727"></TimeCreated>
+<EventRecordID>386</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">F41lBPfDvgBsxtwp</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.235352"></TimeCreated>
+<EventRecordID>387</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">4Dgifts</Data>
+<Data Name="Workstation">7q05J0ZFQBybOxNG</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.250975"></TimeCreated>
+<EventRecordID>388</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">GVjWCF31sOe3Koq4</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.266602"></TimeCreated>
+<EventRecordID>389</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">lxfzrGygGWMXdAxK</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.282227"></TimeCreated>
+<EventRecordID>390</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">70v7v3NMhsvvQdlN</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.297850"></TimeCreated>
+<EventRecordID>391</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">7U8ToXz9TQp1UeQ4</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.297850"></TimeCreated>
+<EventRecordID>392</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">S7CPWXlS59RSl8vd</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.313477"></TimeCreated>
+<EventRecordID>393</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">KKH8XMIL80eE5WoM</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.313477"></TimeCreated>
+<EventRecordID>394</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">U4CaOTfcm7AgCphi</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.329100"></TimeCreated>
+<EventRecordID>395</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">17vhKcHfONTXlF4o</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.344727"></TimeCreated>
+<EventRecordID>396</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">hL1eQg6vZzFNXYIQ</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.344727"></TimeCreated>
+<EventRecordID>397</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">TRPIVxdxuuqqjZ03</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.360352"></TimeCreated>
+<EventRecordID>398</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">uzBZ2qKKT7zvXrkO</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.360352"></TimeCreated>
+<EventRecordID>399</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">EZsetup</Data>
+<Data Name="Workstation">vLRDr5YIPc7m2Zhr</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.375975"></TimeCreated>
+<EventRecordID>400</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">0IMNuwrfWiBAmuh5</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.391602"></TimeCreated>
+<EventRecordID>401</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">zk5oINXp2CPe4v5l</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.407227"></TimeCreated>
+<EventRecordID>402</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">fOXYqBIdTYmtkstV</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.422850"></TimeCreated>
+<EventRecordID>403</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">ioE7Xh0Kif8gkaQu</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.422850"></TimeCreated>
+<EventRecordID>404</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">2vyquxpqMHitX7IV</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.454100"></TimeCreated>
+<EventRecordID>405</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">qAQPrTxRgMAzrjmS</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.454100"></TimeCreated>
+<EventRecordID>406</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">zDbfqLuHcPxI3wMJ</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.469727"></TimeCreated>
+<EventRecordID>407</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">5S3xjmLkM2w7XVHC</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.485352"></TimeCreated>
+<EventRecordID>408</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">oaT6CO1tTaOndmOs</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.500975"></TimeCreated>
+<EventRecordID>409</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">GoCCfJkDvk49Di1L</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.532227"></TimeCreated>
+<EventRecordID>410</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">7ft15ORugFDYWiBw</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.547850"></TimeCreated>
+<EventRecordID>411</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">OutOfBox</Data>
+<Data Name="Workstation">wHZmb2wBUOdEv9hX</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.563477"></TimeCreated>
+<EventRecordID>412</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">6QdjqtZoIp0NsReS</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.563477"></TimeCreated>
+<EventRecordID>413</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">rrAvlwjFhKaRuF56</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.579100"></TimeCreated>
+<EventRecordID>414</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">OaZvvq3CaKwSPbTL</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.594727"></TimeCreated>
+<EventRecordID>415</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">4bieWPcWeYiHaMgH</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.610352"></TimeCreated>
+<EventRecordID>416</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">SfH3Peg8B63v2kWB</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.610352"></TimeCreated>
+<EventRecordID>417</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">rqOo97Euh8LhHM4X</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.625975"></TimeCreated>
+<EventRecordID>418</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">74s2hRJ6WzvWNUj2</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.625975"></TimeCreated>
+<EventRecordID>419</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">XQZ7XOD2afxzXQGg</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.641602"></TimeCreated>
+<EventRecordID>420</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">xsg5LMXXbcBsAGGh</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.657227"></TimeCreated>
+<EventRecordID>421</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">jPolHdEAaDr59KJX</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.672850"></TimeCreated>
+<EventRecordID>422</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">uzYJWapTDr7EAExz</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.688477"></TimeCreated>
+<EventRecordID>423</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">ROOT</Data>
+<Data Name="Workstation">DDT1YMJy5WqtS0on</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.704100"></TimeCreated>
+<EventRecordID>424</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">rZgPwT0UgRfTXmn3</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.704100"></TimeCreated>
+<EventRecordID>425</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">F8XpXUCb3jYJFGL5</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.719727"></TimeCreated>
+<EventRecordID>426</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">hSb1CGHS1u3IYfPa</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.735352"></TimeCreated>
+<EventRecordID>427</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">ELOqA72kbSBQvvuC</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.750975"></TimeCreated>
+<EventRecordID>428</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">ckR4cRi7ElcrwD5O</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.766602"></TimeCreated>
+<EventRecordID>429</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">pmM0hn9sVWJOoJ7G</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.782227"></TimeCreated>
+<EventRecordID>430</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">pHbgWUUCkoayjeI1</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.797850"></TimeCreated>
+<EventRecordID>431</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">Zuq0En1GZBVym45a</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.813477"></TimeCreated>
+<EventRecordID>432</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">FJyyyCz3JlQ62HnU</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.813477"></TimeCreated>
+<EventRecordID>433</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">nKGxIWO7AVQTAtAs</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.829100"></TimeCreated>
+<EventRecordID>434</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">6o4p2hEK25sPTr4X</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.844727"></TimeCreated>
+<EventRecordID>435</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">adm</Data>
+<Data Name="Workstation">W1c0B7HEUwBSenkg</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.860352"></TimeCreated>
+<EventRecordID>436</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">WhEXnxQ2ppf5TslB</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.907227"></TimeCreated>
+<EventRecordID>437</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">8a5jtfKERayjwHEG</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.922850"></TimeCreated>
+<EventRecordID>438</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">Ty0hEz3E0rMWfaMe</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.922850"></TimeCreated>
+<EventRecordID>439</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">ZZgndMO00H3HaeCp</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.938477"></TimeCreated>
+<EventRecordID>440</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">uRpl3tut3CPTHuSI</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.954100"></TimeCreated>
+<EventRecordID>441</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">sggkfVntHiBACLMR</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:21.985352"></TimeCreated>
+<EventRecordID>442</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">n5ruaeHjXWhitF8W</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.000975"></TimeCreated>
+<EventRecordID>443</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">0f2ssgflL9q0rHz7</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.016602"></TimeCreated>
+<EventRecordID>444</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">8yIMvlfSHmJRnrbF</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.032227"></TimeCreated>
+<EventRecordID>445</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">NrPtpuTka4W2KTYF</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.032227"></TimeCreated>
+<EventRecordID>446</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">rU5YlhIvM9CqBE3A</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.047850"></TimeCreated>
+<EventRecordID>447</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">admin</Data>
+<Data Name="Workstation">nrfpgtKDbOKPRbEq</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.063477"></TimeCreated>
+<EventRecordID>448</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">iO63u3KhGnPRsqTS</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.079100"></TimeCreated>
+<EventRecordID>449</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">x2gX9cD6zPZdMRbo</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.094727"></TimeCreated>
+<EventRecordID>450</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">70k93vBfxmjsPEYh</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.110352"></TimeCreated>
+<EventRecordID>451</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">55kKQSNR8asYA243</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.125975"></TimeCreated>
+<EventRecordID>452</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">XYE5TUnpsdBXLVSS</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.125975"></TimeCreated>
+<EventRecordID>453</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">vhO88JTYybLwfflx</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.141602"></TimeCreated>
+<EventRecordID>454</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">MtXMhi2LWXuZt60w</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.157227"></TimeCreated>
+<EventRecordID>455</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">q44WQYuZR286SY1y</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.172850"></TimeCreated>
+<EventRecordID>456</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">cfvc0PuCcQf3m5Eh</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.188477"></TimeCreated>
+<EventRecordID>457</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">YnYZKavGBZosZvJE</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.204100"></TimeCreated>
+<EventRecordID>458</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">C1hMCHz1PQodzcE1</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.219727"></TimeCreated>
+<EventRecordID>459</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">administrator</Data>
+<Data Name="Workstation">qUGp6h00etl84dLT</Data>
+<Data Name="Status">0xc000006a</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.235352"></TimeCreated>
+<EventRecordID>460</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">EeqnZRFRNVgK2oje</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.250975"></TimeCreated>
+<EventRecordID>461</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">brWI41UWm1YK0r5D</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.266602"></TimeCreated>
+<EventRecordID>462</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">uRJcIhMgSA0bJAth</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.266602"></TimeCreated>
+<EventRecordID>463</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">xP7KjRGEmPOGkHPf</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.282227"></TimeCreated>
+<EventRecordID>464</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">52WHyweiw6gBOcQw</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.297850"></TimeCreated>
+<EventRecordID>465</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">m8RyuTZTsOELrGfP</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.297850"></TimeCreated>
+<EventRecordID>466</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">2w7NnqRulnr5G28A</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.313477"></TimeCreated>
+<EventRecordID>467</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">lG4f89qF0Be9E4cc</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.329100"></TimeCreated>
+<EventRecordID>468</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">TzMaQAK7tysbg1TM</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.329100"></TimeCreated>
+<EventRecordID>469</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">qXykNftsDA1U5fp6</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.344727"></TimeCreated>
+<EventRecordID>470</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">Vb0uWQncSGN5z8IX</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.360352"></TimeCreated>
+<EventRecordID>471</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">anon</Data>
+<Data Name="Workstation">VijxdzhUuZBHlE5s</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.375975"></TimeCreated>
+<EventRecordID>472</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">7zP5SF1nFaYiW2Bk</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.375975"></TimeCreated>
+<EventRecordID>473</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">kpGL4CYi3C1e9LTU</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.407227"></TimeCreated>
+<EventRecordID>474</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">FriFu42izFxRnuZq</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.407227"></TimeCreated>
+<EventRecordID>475</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">CabmnRF0QI3KdEfi</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.422850"></TimeCreated>
+<EventRecordID>476</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">rRI2HV4h9R7WqjrM</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.438477"></TimeCreated>
+<EventRecordID>477</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">OUi7HzoElzPeQJMg</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.469727"></TimeCreated>
+<EventRecordID>478</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">jMoLi6lU6YyJWIJ5</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.469727"></TimeCreated>
+<EventRecordID>479</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">zhILaeSbiLDBNs3O</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.485352"></TimeCreated>
+<EventRecordID>480</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">zvMzWMo4DpA0A4t5</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.516602"></TimeCreated>
+<EventRecordID>481</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">68QrnbEFKzohbvES</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.516602"></TimeCreated>
+<EventRecordID>482</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">vzsaHlcc75C1ogfy</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-a5ba-3e3b0328c30d"></Provider>
+<EventID Qualifiers="">4776</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>14336</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8010000000000000</Keywords>
+<TimeCreated SystemTime="2016-09-15 20:59:22.532227"></TimeCreated>
+<EventRecordID>483</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="456" ThreadID="1936"></Execution>
+<Channel>Security</Channel>
+<Computer>bob-PC</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="PackageName">MICROSOFT_AUTHENTICATION_PACKAGE_V1_0</Data>
+<Data Name="TargetUserName">auditor</Data>
+<Data Name="Workstation">GClZPrLILUheMsYw</Data>
+<Data Name="Status">0xc0000064</Data>
+</EventData>
+</Event>
+
+</Events>
+
+EVENT: 4776
+-----: [ Bad Logon Attempt ]
+----------------------------
+[2016-09-15 20:59:20.688477]             kulHKAGP               SZ225hU6Uvk9dlsK           0xc0000064
+[2016-09-15 20:59:20.688477]                  bob               zYhzSajqcwmrZP5B           0xc000006a
+[2016-09-15 20:59:20.704100]                  bob               GZAJJ1WVon0BKA3r           0xc000006a
+[2016-09-15 20:59:20.719727]                  bob               bmHoOxqy0JNICl8Z           0xc000006a
+[2016-09-15 20:59:20.735352]                  bob               nywZV6JGlcb29NC3           0xc000006a
+[2016-09-15 20:59:20.735352]                  bob               pnpvIpNYsaPc7keU           0xc000006a
+[2016-09-15 20:59:20.750975]                  bob               xQ2INAzMjJGqWZFA           0xc000006a
+[2016-09-15 20:59:20.766602]                  bob               3EepQ0KnY6GnSVIB           0xc000006a
+[2016-09-15 20:59:20.782227]                  bob               ZqeIN2GXxzjOcPUs           0xc000006a
+[2016-09-15 20:59:20.797850]                  bob               8akffd8NzPZmOVwm           0xc000006a
+[2016-09-15 20:59:20.813477]                  bob               8uIEyvLMx0f82KDr           0xc000006a
+[2016-09-15 20:59:20.813477]                  bob               ABs3NSdGjM4V6WT4           0xc000006a
+[2016-09-15 20:59:20.829100]                  bob               36hEV7ueZqMCZ43Q           0x00000000
+[2016-09-15 20:59:20.844727]                  bob               nSZ0WAEGBoBxw1Ev           0x00000000
+[2016-09-15 20:59:20.891602]                 None               kackdLbUKmaRC9aD           0xc0000064
+[2016-09-15 20:59:20.907227]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:20.922850]                 None               7sIGDdAgua7nya1o           0xc0000064
+[2016-09-15 20:59:20.922850]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:20.922850]                 None               rqPyqfEz3kgUeM10           0xc0000064
+[2016-09-15 20:59:20.922850]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:20.938477]                 None               aycmR11Tbk7t3Gqg           0xc0000064
+[2016-09-15 20:59:20.938477]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:20.954100]                 None               O9jJS2zx1ttSs5B5           0xc0000064
+[2016-09-15 20:59:20.954100]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:20.969727]                 None               VlNu8gKuVu5mT88N           0xc0000064
+[2016-09-15 20:59:20.969727]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:20.969727]                 None               g6BF7egrJf25aHYl           0xc0000064
+[2016-09-15 20:59:20.969727]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:21.000975]                 None               ANR4CV4hVMIJj78Q           0xc0000064
+[2016-09-15 20:59:21.000975]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:21.016602]                 None               oTMs5hPBlmuyIjnn           0xc0000064
+[2016-09-15 20:59:21.016602]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:21.032227]                 None               FesSn3V4WyiEINmk           0xc0000064
+[2016-09-15 20:59:21.047850]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:21.047850]                 None               DT4PRtG7QTXHGQlj           0xc0000064
+[2016-09-15 20:59:21.047850]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:21.079100]                 None               AGy6nixQTQlqkqYG           0xc0000064
+[2016-09-15 20:59:21.079100]                 None                  \\10.200.0.21           0xc0000064
+[2016-09-15 20:59:21.079100]              4Dgifts               fKQINooJzUxDMDSF           0xc0000064
+[2016-09-15 20:59:21.094727]              4Dgifts               2Hd048sM9pE3LL8F           0xc0000064
+[2016-09-15 20:59:21.110352]              4Dgifts               JvhPl46qYxkInhxR           0xc0000064
+[2016-09-15 20:59:21.125975]              4Dgifts               aG7OHr9W33QLrkSd           0xc0000064
+[2016-09-15 20:59:21.141602]              4Dgifts               04GTrxuMFeQH2gxp           0xc0000064
+[2016-09-15 20:59:21.157227]              4Dgifts               NC2fhk3TqMLwlqjT           0xc0000064
+[2016-09-15 20:59:21.172850]              4Dgifts               kW97log3YwHlqbuJ           0xc0000064
+[2016-09-15 20:59:21.188477]              4Dgifts               OzXwVceC9lhS2Ctv           0xc0000064
+[2016-09-15 20:59:21.204100]              4Dgifts               tyshwVss5IDo1oUy           0xc0000064
+[2016-09-15 20:59:21.219727]              4Dgifts               iUBM4SgH61U3Scbf           0xc0000064
+[2016-09-15 20:59:21.219727]              4Dgifts               F41lBPfDvgBsxtwp           0xc0000064
+[2016-09-15 20:59:21.235352]              4Dgifts               7q05J0ZFQBybOxNG           0xc0000064
+[2016-09-15 20:59:21.250975]              EZsetup               GVjWCF31sOe3Koq4           0xc0000064
+[2016-09-15 20:59:21.266602]              EZsetup               lxfzrGygGWMXdAxK           0xc0000064
+[2016-09-15 20:59:21.282227]              EZsetup               70v7v3NMhsvvQdlN           0xc0000064
+[2016-09-15 20:59:21.297850]              EZsetup               7U8ToXz9TQp1UeQ4           0xc0000064
+[2016-09-15 20:59:21.297850]              EZsetup               S7CPWXlS59RSl8vd           0xc0000064
+[2016-09-15 20:59:21.313477]              EZsetup               KKH8XMIL80eE5WoM           0xc0000064
+[2016-09-15 20:59:21.313477]              EZsetup               U4CaOTfcm7AgCphi           0xc0000064
+[2016-09-15 20:59:21.329100]              EZsetup               17vhKcHfONTXlF4o           0xc0000064
+[2016-09-15 20:59:21.344727]              EZsetup               hL1eQg6vZzFNXYIQ           0xc0000064
+[2016-09-15 20:59:21.344727]              EZsetup               TRPIVxdxuuqqjZ03           0xc0000064
+[2016-09-15 20:59:21.360352]              EZsetup               uzBZ2qKKT7zvXrkO           0xc0000064
+[2016-09-15 20:59:21.360352]              EZsetup               vLRDr5YIPc7m2Zhr           0xc0000064
+[2016-09-15 20:59:21.375975]             OutOfBox               0IMNuwrfWiBAmuh5           0xc0000064
+[2016-09-15 20:59:21.391602]             OutOfBox               zk5oINXp2CPe4v5l           0xc0000064
+[2016-09-15 20:59:21.407227]             OutOfBox               fOXYqBIdTYmtkstV           0xc0000064
+[2016-09-15 20:59:21.422850]             OutOfBox               ioE7Xh0Kif8gkaQu           0xc0000064
+[2016-09-15 20:59:21.422850]             OutOfBox               2vyquxpqMHitX7IV           0xc0000064
+[2016-09-15 20:59:21.454100]             OutOfBox               qAQPrTxRgMAzrjmS           0xc0000064
+[2016-09-15 20:59:21.454100]             OutOfBox               zDbfqLuHcPxI3wMJ           0xc0000064
+[2016-09-15 20:59:21.469727]             OutOfBox               5S3xjmLkM2w7XVHC           0xc0000064
+[2016-09-15 20:59:21.485352]             OutOfBox               oaT6CO1tTaOndmOs           0xc0000064
+[2016-09-15 20:59:21.500975]             OutOfBox               GoCCfJkDvk49Di1L           0xc0000064
+[2016-09-15 20:59:21.532227]             OutOfBox               7ft15ORugFDYWiBw           0xc0000064
+[2016-09-15 20:59:21.547850]             OutOfBox               wHZmb2wBUOdEv9hX           0xc0000064
+[2016-09-15 20:59:21.563477]                 ROOT               6QdjqtZoIp0NsReS           0xc0000064
+[2016-09-15 20:59:21.563477]                 ROOT               rrAvlwjFhKaRuF56           0xc0000064
+[2016-09-15 20:59:21.579100]                 ROOT               OaZvvq3CaKwSPbTL           0xc0000064
+[2016-09-15 20:59:21.594727]                 ROOT               4bieWPcWeYiHaMgH           0xc0000064
+[2016-09-15 20:59:21.610352]                 ROOT               SfH3Peg8B63v2kWB           0xc0000064
+[2016-09-15 20:59:21.610352]                 ROOT               rqOo97Euh8LhHM4X           0xc0000064
+[2016-09-15 20:59:21.625975]                 ROOT               74s2hRJ6WzvWNUj2           0xc0000064
+[2016-09-15 20:59:21.625975]                 ROOT               XQZ7XOD2afxzXQGg           0xc0000064
+[2016-09-15 20:59:21.641602]                 ROOT               xsg5LMXXbcBsAGGh           0xc0000064
+[2016-09-15 20:59:21.657227]                 ROOT               jPolHdEAaDr59KJX           0xc0000064
+[2016-09-15 20:59:21.672850]                 ROOT               uzYJWapTDr7EAExz           0xc0000064
+[2016-09-15 20:59:21.688477]                 ROOT               DDT1YMJy5WqtS0on           0xc0000064
+[2016-09-15 20:59:21.704100]                  adm               rZgPwT0UgRfTXmn3           0xc0000064
+[2016-09-15 20:59:21.704100]                  adm               F8XpXUCb3jYJFGL5           0xc0000064
+[2016-09-15 20:59:21.719727]                  adm               hSb1CGHS1u3IYfPa           0xc0000064
+[2016-09-15 20:59:21.735352]                  adm               ELOqA72kbSBQvvuC           0xc0000064
+[2016-09-15 20:59:21.750975]                  adm               ckR4cRi7ElcrwD5O           0xc0000064
+[2016-09-15 20:59:21.766602]                  adm               pmM0hn9sVWJOoJ7G           0xc0000064
+[2016-09-15 20:59:21.782227]                  adm               pHbgWUUCkoayjeI1           0xc0000064
+[2016-09-15 20:59:21.797850]                  adm               Zuq0En1GZBVym45a           0xc0000064
+[2016-09-15 20:59:21.813477]                  adm               FJyyyCz3JlQ62HnU           0xc0000064
+[2016-09-15 20:59:21.813477]                  adm               nKGxIWO7AVQTAtAs           0xc0000064
+[2016-09-15 20:59:21.829100]                  adm               6o4p2hEK25sPTr4X           0xc0000064
+[2016-09-15 20:59:21.844727]                  adm               W1c0B7HEUwBSenkg           0xc0000064
+[2016-09-15 20:59:21.860352]                admin               WhEXnxQ2ppf5TslB           0xc0000064
+[2016-09-15 20:59:21.907227]                admin               8a5jtfKERayjwHEG           0xc0000064
+[2016-09-15 20:59:21.922850]                admin               Ty0hEz3E0rMWfaMe           0xc0000064
+[2016-09-15 20:59:21.922850]                admin               ZZgndMO00H3HaeCp           0xc0000064
+[2016-09-15 20:59:21.938477]                admin               uRpl3tut3CPTHuSI           0xc0000064
+[2016-09-15 20:59:21.954100]                admin               sggkfVntHiBACLMR           0xc0000064
+[2016-09-15 20:59:21.985352]                admin               n5ruaeHjXWhitF8W           0xc0000064
+[2016-09-15 20:59:22.000975]                admin               0f2ssgflL9q0rHz7           0xc0000064
+[2016-09-15 20:59:22.016602]                admin               8yIMvlfSHmJRnrbF           0xc0000064
+[2016-09-15 20:59:22.032227]                admin               NrPtpuTka4W2KTYF           0xc0000064
+[2016-09-15 20:59:22.032227]                admin               rU5YlhIvM9CqBE3A           0xc0000064
+[2016-09-15 20:59:22.047850]                admin               nrfpgtKDbOKPRbEq           0xc0000064
+[2016-09-15 20:59:22.063477]        administrator               iO63u3KhGnPRsqTS           0xc000006a
+[2016-09-15 20:59:22.079100]        administrator               x2gX9cD6zPZdMRbo           0xc000006a
+[2016-09-15 20:59:22.094727]        administrator               70k93vBfxmjsPEYh           0xc000006a
+[2016-09-15 20:59:22.110352]        administrator               55kKQSNR8asYA243           0xc000006a
+[2016-09-15 20:59:22.125975]        administrator               XYE5TUnpsdBXLVSS           0xc000006a
+[2016-09-15 20:59:22.125975]        administrator               vhO88JTYybLwfflx           0xc000006a
+[2016-09-15 20:59:22.141602]        administrator               MtXMhi2LWXuZt60w           0xc000006a
+[2016-09-15 20:59:22.157227]        administrator               q44WQYuZR286SY1y           0xc000006a
+[2016-09-15 20:59:22.172850]        administrator               cfvc0PuCcQf3m5Eh           0xc000006a
+[2016-09-15 20:59:22.188477]        administrator               YnYZKavGBZosZvJE           0xc000006a
+[2016-09-15 20:59:22.204100]        administrator               C1hMCHz1PQodzcE1           0xc000006a
+[2016-09-15 20:59:22.219727]        administrator               qUGp6h00etl84dLT           0xc000006a
+[2016-09-15 20:59:22.235352]                 anon               EeqnZRFRNVgK2oje           0xc0000064
+[2016-09-15 20:59:22.250975]                 anon               brWI41UWm1YK0r5D           0xc0000064
+[2016-09-15 20:59:22.266602]                 anon               uRJcIhMgSA0bJAth           0xc0000064
+[2016-09-15 20:59:22.266602]                 anon               xP7KjRGEmPOGkHPf           0xc0000064
+[2016-09-15 20:59:22.282227]                 anon               52WHyweiw6gBOcQw           0xc0000064
+[2016-09-15 20:59:22.297850]                 anon               m8RyuTZTsOELrGfP           0xc0000064
+[2016-09-15 20:59:22.297850]                 anon               2w7NnqRulnr5G28A           0xc0000064
+[2016-09-15 20:59:22.313477]                 anon               lG4f89qF0Be9E4cc           0xc0000064
+[2016-09-15 20:59:22.329100]                 anon               TzMaQAK7tysbg1TM           0xc0000064
+[2016-09-15 20:59:22.329100]                 anon               qXykNftsDA1U5fp6           0xc0000064
+[2016-09-15 20:59:22.344727]                 anon               Vb0uWQncSGN5z8IX           0xc0000064
+[2016-09-15 20:59:22.360352]                 anon               VijxdzhUuZBHlE5s           0xc0000064
+[2016-09-15 20:59:22.375975]              auditor               7zP5SF1nFaYiW2Bk           0xc0000064
+[2016-09-15 20:59:22.375975]              auditor               kpGL4CYi3C1e9LTU           0xc0000064
+[2016-09-15 20:59:22.407227]              auditor               FriFu42izFxRnuZq           0xc0000064
+[2016-09-15 20:59:22.407227]              auditor               CabmnRF0QI3KdEfi           0xc0000064
+[2016-09-15 20:59:22.422850]              auditor               rRI2HV4h9R7WqjrM           0xc0000064
+[2016-09-15 20:59:22.438477]              auditor               OUi7HzoElzPeQJMg           0xc0000064
+[2016-09-15 20:59:22.469727]              auditor               jMoLi6lU6YyJWIJ5           0xc0000064
+[2016-09-15 20:59:22.469727]              auditor               zhILaeSbiLDBNs3O           0xc0000064
+[2016-09-15 20:59:22.485352]              auditor               zvMzWMo4DpA0A4t5           0xc0000064
+[2016-09-15 20:59:22.516602]              auditor               68QrnbEFKzohbvES           0xc0000064
+[2016-09-15 20:59:22.516602]              auditor               vzsaHlcc75C1ogfy           0xc0000064
+[2016-09-15 20:59:22.532227]              auditor               GClZPrLILUheMsYw           0xc0000064
+
+EVENT: 4624
+-----: [ Successful Logon  ]
+----------------------------
+[2016-09-15 20:59:20.829100]                    -                              -   0x0000000000000000
+[2016-09-15 20:59:20.844727]                    -                              -   0x0000000000000000
+
+EVENT: 1102
+-----: [ Successful Audit  ]
+----------------------------
+[2016-09-15 20:59:17.188477]                                                                         
+
+EVENT: 4672
+-----: [ Special Privleges ]
+----------------------------
+[2016-09-15 20:59:20.829100]                  bob                         bob-PC   0x00000000000ca003
+[2016-09-15 20:59:20.829100]                  bob                         bob-PC   0x00000000000ca003
+[2016-09-15 20:59:20.844727]                  bob                         bob-PC   0x00000000000ca01a
+[2016-09-15 20:59:20.844727]                  bob                         bob-PC   0x00000000000ca01a
+
+EVENT: 4634
+-----: [ Successful Logoff ]
+----------------------------
+[2016-09-15 20:59:20.844727]                  bob                         bob-PC   0x00000000000ca003
+[2016-09-15 20:59:20.891602]                  bob                         bob-PC   0x00000000000ca01a
+set(['administrator', 'kulHKAGP', 'EZsetup', 'admin', '4Dgifts', 'anon', None, 'bob', 'adm', 'ROOT', 'OutOfBox', 'auditor'])
+12
