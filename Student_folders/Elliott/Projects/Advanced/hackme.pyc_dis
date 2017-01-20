@@ -1,0 +1,55 @@
+#Embedded file name: hackme.py
+"""
+###############################################################################
+# FILE NAME : hackme.py
+# AUTHOR : J.Enochs
+# CREATION DATE : 21-Sep-2016
+# LAST MODIFIED : 26-Sep-2016
+# DESCRIPTION : Advanced python challenge.  This script takes a string and 
+#               produces a hash code that gets appended to my name(Jason). The
+#               challenge is to 1) decompile this script and then 2) alter it
+#               so that is starts with the student's name instead of mine. Both
+#               scripts must produce the same hash when presented with the same
+#               input string.  This challenge is worth 15 flag points.
+#               
+###############################################################################/
+"""
+import pkgutil
+import optparse
+import hashlib
+import os
+
+def main():
+    slt = salt_target()
+    award_flag(slt)
+
+
+def salt_target():
+    path = os.path.abspath(__file__)
+    with open(path) as f:
+        content = f.readlines()
+    sha = hashlib.sha1()
+    sha.update(str(content))
+    sha.update(SEED)
+    slt = sha.hexdigest()
+    return slt
+
+
+def award_flag(slt):
+    sha = hashlib.sha1()
+    sha.update(slt)
+    sha.update('SHA256')
+    flag = sha.hexdigest()
+    print '\n\n###################################################\n'
+    print '  Jason-{}'.format(flag)
+    print '\n###################################################\n'
+
+
+if __name__ == '__main__':
+    p = optparse.OptionParser(usage='usage: %prog -n <random string>')
+    p.add_option('-n', action='store', dest='seed', help='hackme help')
+    opt, args = p.parse_args()
+    if not opt.seed:
+        p.error('input not given')
+    SEED = opt.seed
+    main()
